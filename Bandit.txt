@@ -184,7 +184,45 @@
 ## Level 19
 
 *  ssh bandit19@bandit.labs.overthewire.org
-*  
+*  ./bandit20-do euid=11020 cat /etc/bandit_pass/bandit20
   *  Key:
-    *  
-./bandit20-do euid=11020
+    *  GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+## Level 20
+
+*  ssh bandit20@bandit.labs.overthewire.org
+*  In session 1:
+  *  echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l 2999
+*  In session 2:
+  *  ./suconnect 2999
+* In session 1:
+  *  "gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr" will be printed
+  *  Key:
+    *  gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+    
+## Level 21
+
+*  ssh bandit21@bandit.labs.overthewire.org
+*  cat /etc/cron.d/cronjob_bandit22
+*  cat /usr/bin/cronjob_bandit22.sh 
+*  cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+  *  Key:
+    * Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+## Level 22
+
+*  ssh bandit22@bandit.labs.overthewire.org
+*  cat /etc/cron.d/cronjob_bandit23
+*  less /usr/bin/cronjob_bandit23.sh 
+*  echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+*  cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+  *  Key:
+    * jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+
+## Level 23
+
+*  ssh bandit23@bandit.labs.overthewire.org
+*  cat /etc/cron.d/cronjob_bandit24
+*  cat /usr/bin/cronjob_bandit24.sh 
+  *  Key:
+    * 
