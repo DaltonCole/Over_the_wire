@@ -245,3 +245,7 @@ cat /etc/bandit_pass/$myname > /tmp/1234567890bob.txt
 *  python3 file.py
   *  Key:
     *  uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+## Level 25
+
+*  ssh bandit25@bandit.labs.overthewire.org
