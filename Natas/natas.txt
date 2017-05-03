@@ -29,4 +29,13 @@
 
 ## Level 4
 
-* 
+* Burp Suit
+* Proxy to 127.0.0.1:8080
+* Intercept on
+* Refresh Natas page
+* Update referer to 'http://natas5.natas.labs.overthewire.org/'
+* iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq 
+
+## Level 5
+
+*
