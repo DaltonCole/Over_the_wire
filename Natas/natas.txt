@@ -1,0 +1,32 @@
+# Over The Wire - Natas
+
+## Level 0
+
+* View Source
+* gtVrDuiDfck831PqWsLEZy5gyDz1clto
+
+## Level 1
+
+* Mac: Command + Option + U
+* ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+
+## Level 2
+
+* View Source
+* Notice img src
+* Go to http://natas2.natas.labs.overthewire.org/files/users.txt
+* sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+
+## Level 3
+
+* View Source
+* Notice Google Hint
+  * File that makes search engines not look at certain pages?
+* http://natas3.natas.labs.overthewire.org/robots.txt
+* http://natas3.natas.labs.overthewire.org/s3cr3t/
+* http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt
+* Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+
+## Level 4
+
+* 
