@@ -55,3 +55,9 @@
 * 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 
 ## Level 7
+
+* View Source
+* http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
+* DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+
+## Level 8
