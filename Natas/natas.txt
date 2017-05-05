@@ -38,4 +38,10 @@
 
 ## Level 5
 
-*
+* Burp Suit
+* Intercept on
+* Refresh page
+* Set "loggedin=" to 1
+* aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
+
+## Level 6
