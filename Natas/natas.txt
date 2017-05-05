@@ -45,3 +45,13 @@
 * aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 ## Level 6
+
+* View Source
+* Notice "include..."
+* Go to "http://natas6.natas.labs.overthewire.org/includes/secret.inc"
+* View page source
+* $secret = "FOEIUWGHFEEUHOFUOIU";
+* Submit secret
+* 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+
+## Level 7
