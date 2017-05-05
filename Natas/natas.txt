@@ -61,3 +61,15 @@
 * DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 
 ## Level 8
+
+* View sourcecode
+* Notice PHP script
+* bin2hex(strrev(base64_encode($secret)));
+* Reverse it to: base64_decode(strrev(hex2bin("3d3d516343746d4d6d6c315669563362")));
+* Run in PHP sandbox
+* Input secret: oubWYf2kBq
+* W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+
+## Level 9
+
+*
